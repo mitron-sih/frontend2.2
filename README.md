@@ -8,3 +8,5 @@ Implemented a Web Application using React Framework and Chakra UI.
 - React Twitter Embed
 - Emotion Styled
 - Framer Motion
+- accessibility
+
